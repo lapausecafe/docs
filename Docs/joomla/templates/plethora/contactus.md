@@ -65,7 +65,7 @@ Below is a brief rundown of the modules used to make up the demo page.
 
 | Option                    | Setting                                       |
 | :----------               | :----------                                   |
-| Module Class Suffix       | `rt-center rt-title-large rt-nomodulecontent` |
+| Module Class Suffix       | `box3 nomarginall rt-center rt-title-large rt-nomodulecontent` |
 
 ### Custom HTML - Contact Info
 
