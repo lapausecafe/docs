@@ -41,8 +41,8 @@ Below is a brief rundown of the modules used to make up the demo page.
 ![][servicespage]
 
 :   1. **Custom HTML - Services** [10%, 45%, se]
-    2. **Custom HTML - Our Core Service** [38%, 11%, se]
-    3. **Custom HTML - Services: Chart JS** [16%, 11%, se]
+    2. **Custom HTML - Our Core Service** [38%, 11%, se] This should be number 3.
+    3. **Custom HTML - Services: Chart JS** [16%, 11%, se] This should be number 2.
     4. **Article Content** [50%, 11%, se]
     5. **Custom HTML - Grid System** [59%, 11%, se]
     6. **Custom HTML - Save Your Time and Effort** [72%, 33%, se]
